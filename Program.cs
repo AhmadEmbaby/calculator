@@ -81,7 +81,7 @@ while (calcAgain)
     Console.WriteLine($"\n______________________________________\n");
 
 
-    Console.Write("Do you want to perform another calculation? [y/n]: ");
+    Console.Write("Do you want to perform another Calculation? [y/n]: ");
 
     char userChoice = Convert.ToChar(Console.ReadLine());
 
